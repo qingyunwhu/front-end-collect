@@ -67,6 +67,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
 |[阮一峰博客](http://www.ruanyifeng.com/blog/)|★★★★☆|★★★☆☆|[#](http://www.ruanyifeng.com/about.html)|牛人一个|
 |[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
+|[廖雪峰博客](http://www.liaoxuefeng.com/)|★★★★★|★★★★★|[@廖雪峰](https://github.com/michaelliao)|JavaScript全栈教程，还有GIt,Python等教程|
 
 
 
@@ -161,6 +162,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |屈光宇
  |[Jerry Qu的小站](https://imququ.com/)|[屈光宇
  ](http://weibo.com/jerryqu)|#|#|#|奇虎360前端，对WEB性能研究很深入|
+|廖雪峰|[廖雪峰的官方网站](http://www.liaoxuefeng.com/)|[@liaoxuefeng](http://www.weibo.com/liaoxuefeng)|[@michaelliao](https://github.com/michaelliao)|[@liaoxuefeng](https://twitter.com/liaoxuefeng)|Brightcove| 博客写作人，技术作家，著有《Spring 2.0核心技术与最佳实践》|
 
 
 ####一些社区
